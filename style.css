@@ -46,6 +46,7 @@ body {
     box-shadow:0px 0px 10px blue;
     margin-left:10%;
     margin-top:10%;
+    position:relative;
 } 
 @media screen and (max-width: 250px) {
     .col {
